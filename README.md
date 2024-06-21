@@ -38,6 +38,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dibyancodes/dibyancodes/output/snake.svg" alt="Snake animation" />
-
 ###
